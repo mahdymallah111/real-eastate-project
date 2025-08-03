@@ -61,11 +61,11 @@ Import the database:
 
 Access phpMyAdmin (http://localhost/phpmyadmin)
 
-Create a new database named real_estate_db
+## Create a new database named real_estate_db
 
 Import the provided SQL file
 
-2. Configuration
+### 2. Configuration
 Edit config.php with your database credentials:
 
 php
