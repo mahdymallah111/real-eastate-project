@@ -64,7 +64,10 @@ Access phpMyAdmin (http://localhost/phpmyadmin)
 ## Create a new database named real_estate_db
 
 Import the provided SQL file
-
+## 🗄️ Database Setup
+1. Import `database/real_estate_db.sql` into phpMyAdmin.
+2. Update `config.php` with your DB credentials.
+   
 ### 2. Configuration
 Edit config.php with your database credentials:
 
