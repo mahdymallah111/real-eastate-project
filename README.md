@@ -73,7 +73,7 @@ define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
 define('DB_NAME', 'real_estate_db');
-3. File Structure
+# 3. File Structure
 text
 real-estate-website/
 ├── assets/               # Images, CSS, JS
